@@ -1,0 +1,11 @@
+﻿streamlit
+pymupdf
+word2number
+fpdf
+pytesseract
+Pillow
+numpy
+opencv-python
+langchain
+pandas
+google-generativeai
