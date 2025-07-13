@@ -149,7 +149,7 @@ def extract_marks_from_marksheet(text, board_type):
 # UPDATED FUNCTION: Generate recommendations using Gemini API with direct API key
 def generate_gemini_recommendations(name, sslc_data, cbse_data, skills):
     # Using the API key directly in the code
-    api_key = "AIzaSyAmDL0d1APCRRadiL4664kF1hgR2SnJuzA"
+    api_key = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
     
     try:
         # Configure the Gemini API
